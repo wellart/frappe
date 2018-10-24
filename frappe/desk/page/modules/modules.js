@@ -161,13 +161,7 @@ frappe.pages['modules'].on_page_load = function(wrapper) {
 			<span class="judul-menu">Pengaturan</span>
 		</a>
 	</li>
-<li class="strong module-sidebar-item">
-		<a class="module-link" data-name="Setup" href="#modules/Punia Account">
-			<i class="fa fa-sliders fa-fw"></i>
-			<i class="fa fa-chevron-right pull-right" style="display: none;"></i>
-			<span class="judul-menu">Punia Akun</span>
-		</a>
-	</li>
+
 	
 <li class="divider"></li>
 <ul style="display: none;">${sidebar_items_html}</ul>
